@@ -1,4 +1,4 @@
-<h1 align="center">
+ <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Narendra+Koli;Java+Backend+Developer+💻;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Scalable+Applications+🚀"/>
 </h1>
 
