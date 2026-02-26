@@ -15,25 +15,7 @@
 ---
 ---
 
-## 🏆 Developer Highlights
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Premium%20Developer-Professional-blueviolet?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/Backend%20Focused-Java%20%7C%20SpringBoot-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Clean%20%26%20Modern-Code%20Practices-informational?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Visual%20Tech%20Stack-Organized-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Recruiter%20Friendly-Job%20Ready-brightgreen?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Portfolio%20Level-GitHub%20Profile-black?style=for-the-badge"/>
-
-</p>
-
----
 
 
 ## 👨‍💻 Developer Profile
