@@ -1,98 +1,77 @@
-<h1 align="center">Hi 👋, I'm Narendra Koli</h1>
-
-<h3 align="center">🚀 Java Backend Developer | ⚡ Full Stack Developer</h3>
+<h1 align="center">🚀 Narendra Koli</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Spring+Boot+Backend+Developer;Java+%7C+React+%7C+MySQL;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
+<b>Java Backend Developer | Full Stack Developer</b>
 </p>
-
----
 
 <p align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="480"/>
-</p>
-
----
----
-
-
-
-
-## 👨‍💻 Developer Profile
-
-```java
-class NarendraKoli {
-
-    String role = "Java Backend Developer";
-    String backend = "Spring Boot, Spring Security, REST APIs";
-    String frontend = "React.js, HTML, CSS";
-    String database = "MySQL";
-    String architecture = "MVC & Layered Architecture";
-
-}
-```
-
----
-
-# 🚀 Tech Stack
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,mysql"/>
-</p>
-
-### ⚙️ Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20API-Backend-success?style=for-the-badge"/>
-</p>
-
-### 🌐 Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
-</p>
-
-### 🛠 Tools & IDEs
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea,postman"/>
-</p>
-
-### 🗄 Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### 🧠 Core Concepts
-
-<p>
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Basic-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC%20Architecture-Design-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Layered%20Architecture-System-orange?style=for-the-badge"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2400&pause=900&color=00C2FF&center=true&vCenter=true&width=800&lines=Spring+Boot+Backend+Developer;REST+API+Engineer;Java+%7C+React+%7C+MySQL;Building+Scalable+Applications"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Enterprise Java Backend Engineer
+
+**Spring Boot | REST APIs | MVC | Layered Architecture**
+
+<table>
+<tr>
+<td width="60%">
+
+### 👨‍💻 What I Do
+
+* ⚙ Build scalable backend systems using **Java & Spring Boot**
+* 🔐 Implement authentication using **Spring Security**
+* 🗄 Work with databases using **JPA / Hibernate**
+* 🌐 Develop RESTful APIs
+* 🧠 Focus on Clean Architecture & Performance
+* ⚡ Build Full Stack Applications using React
+
+</td>
+
+<td width="40%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+</td>
+
+</tr>
+</table>
+
+---
+
+## ⚡ Tech Stack
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Narukoli04&show_icons=true&theme=github_dark"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Narukoli04&theme=github-dark-blue"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,react,html,css,bootstrap,tailwind,vscode,idea,git,github,maven,postman"/>
 </p>
 
 ---
 
-## 📈 Coding Activity
+## 🧠 Core Skills
+
+✅ Spring Boot
+✅ Spring Security
+✅ REST APIs
+✅ JDBC
+✅ JPA & Hibernate
+✅ MVC Architecture
+✅ Layered Architecture
+✅ Data Structures & Algorithms
+
+---
+
+## 📊 GitHub Dashboard
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narukoli04&theme=github-dark"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Narukoli04&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Narukoli04&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narukoli04&theme=tokyo-night"/>
 </p>
 
 ---
@@ -103,13 +82,12 @@ class NarendraKoli {
 
 ---
 
-## 🌍 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
 <a href="https://www.linkedin.com/in/narendra-koli">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 <a href="https://narendra-koli-124854.netlify.app/">
 <img src="https://skillicons.dev/icons?i=webstorm"/>
 </a>
@@ -118,5 +96,5 @@ class NarendraKoli {
 ---
 
 <p align="center">
-🔥 Passionate about building scalable backend systems using Java ecosystem 🚀
+🔥 <b>Designing scalable backend systems using Java ecosystem</b> 🚀
 </p>
