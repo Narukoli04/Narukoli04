@@ -9,57 +9,94 @@
 <h3 align="center">🚀 Enterprise Java Backend Developer</h3>
 <p align="center"><b>Spring Boot | REST APIs | MVC | Layered Architecture</b></p>
 
-<img align="right" width="260"
-src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
-
 ---
+
+<table>
+<tr>
+<td width="60%">
 
 ### 👨‍💻 What I Do
 
 * ⚙️ Build scalable backend systems using **Java & Spring Boot**
 * 🔐 Implement authentication using **Spring Security**
-* 🗄️ Work with databases using **JPA / Hibernate**
-* 🌐 Develop RESTful APIs
+* 🗄️ Work with **JPA / Hibernate**
+* 🌐 Develop REST APIs
 * ⚡ Build Full Stack Apps using **React**
-* 🧠 Focus on Clean Architecture & Performance
+* 🧠 Focus on Clean Architecture
 
----
+</td>
 
-<h3>⚡ Tech Stack :</h3>
-
-<table align="center">
-<tr>
-
-<td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="36"/><br>Java</td>
-
-<td align="center"><img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="36"/><br>Spring Boot</td>
-
-<td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="36"/><br>MySQL</td>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="36"/><br>React</td>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="36"/><br>HTML</td>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="36"/><br>CSS</td>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="36"/><br>VS Code</td>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=idea" width="36"/><br>IntelliJ</td>
-
-<td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/><br>Postman</td>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="36"/><br>Git</td>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="36"/><br>GitHub</td>
-
-<td align="center"><img src="https://skillicons.dev/icons?i=spring" width="36"/><br>REST APIs</td>
-
+<td width="40%">
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280"/>
+</td>
 </tr>
 </table>
 
 ---
 
-<h3>🤝 Let's Connect :</h3>
+## ⚡ Backend Skills
+
+<p align="center">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="45"/>
+<img src="https://skillicons.dev/icons?i=spring" width="45"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring"/>
+<img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-success?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌐 Frontend Skills
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
+</p>
+
+---
+
+## 🗄 Database
+
+<p align="center">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
+</p>
+
+---
+
+## 🛠 Tools & IDEs
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,maven,postman"/>
+</p>
+
+---
+
+<table>
+<tr>
+<td width="50%">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%"/>
+</td>
+
+<td width="50%">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Performance
+
+<p align="center">
+<img height="170" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Narukoli04&theme=react&border_radius=10"/>
+</p>
+
+<p align="center">
+<img width="420" src="https://github-readme-stats-salesp07.vercel.app/api?username=Narukoli04&show_icons=true&theme=react&border_radius=10"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
 
 <table align="center">
 <tr>
@@ -84,20 +121,6 @@ src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd78
 
 </tr>
 </table>
-
----
-
-<p align="center">
-<img height="200" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png"/>
-<img height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Narukoli04&theme=react&border_radius=10"/>
-<img height="200" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png"/>
-</p>
-
----
-
-<p align="center">
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Narukoli04&show_icons=true&theme=react&border_radius=10"/>
-</p>
 
 ---
 
