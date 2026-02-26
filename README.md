@@ -28,30 +28,14 @@
 
 ---
 
-### 💻 Programming Languages
-
-<p align="center">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/>
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/>
-</p>
-
-<p align="center">
-<b>Java</b> • <b>JavaScript</b> • <b>SQL</b>
-</p>
-
----
-
 ### ⚙️ Backend Development
 
 <p align="center">
-<img src="https://techstack-generator.vercel.app/spring-icon.svg" width="65"/>
-<img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="65"/>
-<img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="65"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
 </p>
 
 <p align="center">
-<b>Spring Boot</b> • <b>Spring Security</b> • <b>JPA</b> • <b>Hibernate</b> • <b>JDBC</b> • <b>REST APIs</b> • <b>MVC Architecture</b> • <b>Layered Architecture</b>
+Spring Boot • Spring Security • JPA • Hibernate • JDBC • REST APIs • MVC Architecture • Layered Architecture
 </p>
 
 ---
@@ -59,15 +43,11 @@
 ### 🌐 Frontend Development
 
 <p align="center">
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/>
-<img src="https://techstack-generator.vercel.app/html-icon.svg" width="65"/>
-<img src="https://techstack-generator.vercel.app/css-icon.svg" width="65"/>
-<img src="https://skillicons.dev/icons?i=bootstrap" width="65"/>
-<img src="https://skillicons.dev/icons?i=tailwind" width="65"/>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
 </p>
 
 <p align="center">
-<b>React.js</b> • <b>HTML</b> • <b>CSS</b> • <b>Bootstrap</b> • <b>Tailwind CSS</b>
+React.js • HTML • CSS • Bootstrap • Tailwind CSS
 </p>
 
 ---
@@ -75,11 +55,11 @@
 ### 🗄 Database
 
 <p align="center">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 <p align="center">
-<b>MySQL</b>
+MySQL
 </p>
 
 ---
@@ -87,16 +67,11 @@
 ### 🛠 Tools & Development
 
 <p align="center">
-<img src="https://techstack-generator.vercel.app/git-icon.svg" width="65"/>
-<img src="https://skillicons.dev/icons?i=github" width="65"/>
-<img src="https://skillicons.dev/icons?i=maven" width="65"/>
-<img src="https://skillicons.dev/icons?i=vscode" width="65"/>
-<img src="https://skillicons.dev/icons?i=idea" width="65"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="65"/>
+<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea,postman" />
 </p>
 
 <p align="center">
-<b>Git</b> • <b>GitHub</b> • <b>Maven</b> • <b>VS Code</b> • <b>IntelliJ IDEA</b> • <b>Postman</b> • <b>Basic CI/CD</b>
+Git • GitHub • Maven • VS Code • IntelliJ IDEA • Postman • Basic CI/CD
 </p>
 
 ---
@@ -104,9 +79,8 @@
 ### 🧠 Core Concepts
 
 <p align="center">
-<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Basic-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Basic-orange?style=for-the-badge"/>
 </p>
-
 
 ---
 
