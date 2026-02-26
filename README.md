@@ -28,15 +28,24 @@
 
 ### 💻 Programming Languages
 
+### 💻 Programming Languages
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js"/>
+
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/>
+
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/>
+
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/>
+
 </p>
 
 <p align="center">
-<b>Java</b> • <b>JavaScript</b> • <b>SQL</b>
+<b>Java</b> &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+<b>JavaScript</b> &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+<b>SQL</b>
 </p>
 
----
 
 ### ⚙️ Backend Development
 
