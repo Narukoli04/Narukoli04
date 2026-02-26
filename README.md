@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Koli</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=🚀+Java+Backend+Developer;☕+Spring+Boot+Developer;⚡+REST+API+Developer;🗄️+MySQL+Database+Developer;🌐+Frontend+Basics+(React);🧠+DSA+Enthusiast;🔥+Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Java+Backend+Developer;🌐+Frontend+Developer;⚡+Full+Stack+Developer;☕+Spring+Boot+%7C+REST+API+Developer; />
 </p>
