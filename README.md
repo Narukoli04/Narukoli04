@@ -28,10 +28,22 @@
 
 ---
 
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,js,mysql" />
+</p>
+
+<p align="center">
+<b>Java</b> • <b>JavaScript</b> • <b>SQL</b>
+</p>
+
+---
+
 ### ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+<img src="https://skillicons.dev/icons?i=spring" />
 </p>
 
 <p align="center">
