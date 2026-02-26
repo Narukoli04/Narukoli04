@@ -31,11 +31,17 @@
 ### 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,mysql" />
+<img src="https://skillicons.dev/icons?i=java" width="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="60"/>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
 </p>
 
 <p align="center">
-<b>Java</b> • <b>JavaScript</b> • <b>SQL</b>
+<b>Java</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+<b>JavaScript</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+<b>SQL</b>
 </p>
 
 ---
@@ -43,7 +49,7 @@
 ### ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring" />
+<img src="https://skillicons.dev/icons?i=spring" width="65"/>
 </p>
 
 <p align="center">
@@ -55,7 +61,15 @@ Spring Boot • Spring Security • JPA • Hibernate • JDBC • REST APIs •
 ### 🌐 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=react" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="60"/>
 </p>
 
 <p align="center">
@@ -67,7 +81,7 @@ React.js • HTML • CSS • Bootstrap • Tailwind CSS
 ### 🗄 Database
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
 </p>
 
 <p align="center">
@@ -79,7 +93,17 @@ MySQL
 ### 🛠 Tools & Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=git" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=idea" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="60"/>
 </p>
 
 <p align="center">
