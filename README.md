@@ -6,8 +6,8 @@
 <img src="https://komarev.com/ghpvc/?username=Narukoli04&label=Profile+Views&color=0e75b6&style=flat-square"/>
 </p>
 
-<h3 align="center">🚀 Enterprise Java Backend Developer</h3>
-<p align="center"><b>Spring Boot | REST APIs | MVC | Layered Architecture</b></p>
+<h3 align="center">🚀  Java Backend Developer || Full Stack Developer</h3>
+<p align="center"><b>Spring Boot | REST APIs | MVC | Layered Architecture | Front End Developer </b></p>
 
 ---
 
