@@ -23,95 +23,120 @@
 </p>
 
 ---
-
-## 🛠️ Technical Expertise 🚀
-
----
-
-### 💻 Programming Languages ⚡
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,mysql&perline=3" />
-</p>
-
-<p align="center">
-☕ <b>Java</b> &nbsp;&nbsp;•&nbsp;&nbsp;
-✨ <b>JavaScript</b> &nbsp;&nbsp;•&nbsp;&nbsp;
-🗄️ <b>SQL</b>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=58A6FF&center=true&vCenter=true&width=500&lines=Writing+Clean+and+Efficient+Code;Problem+Solving+with+Java;Backend+Logic+Development"/>
-</p>
+## 🛠 Technical Expertise
 
 ---
 
-### ⚙️ Backend Development 🔥
+### 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,maven" />
+
+<img src="https://skillicons.dev/icons?i=java" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+
 </p>
 
 <p align="center">
-🚀 Spring Boot • 🔐 Spring Security • ⚡ JPA • 🧩 Hibernate • 🔗 JDBC  
-🌐 REST APIs • 🏗 MVC Architecture • 🧱 Layered Architecture
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2600&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+Scalable+Backend+Systems;Secure+REST+API+Development;Enterprise+Java+Applications"/>
+☕ <b>Java</b> &nbsp;•&nbsp;
+⚡ <b>JavaScript</b> &nbsp;•&nbsp;
+🗄 <b>SQL</b>
 </p>
 
 ---
 
-### 🌐 Frontend Development 🎨
+### ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+
+<img src="https://skillicons.dev/icons?i=spring" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=java" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="65"/>
+
 </p>
 
 <p align="center">
-⚛️ React.js • 🌍 HTML • 🎨 CSS • 🅱 Bootstrap • 💨 Tailwind CSS
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2600&color=F59E0B&center=true&vCenter=true&width=520&lines=Responsive+UI+Design;Modern+Frontend+Development;Clean+User+Interfaces"/>
+🚀 Spring Boot • 🔐 Spring Security • 📦 JPA • Hibernate • JDBC •  
+🌐 REST APIs • 🏗 MVC Architecture • ⚡ Layered Architecture
 </p>
 
 ---
 
-### 🗄 Database 💾
+### 🌐 Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="65"/>
+
+</p>
+
+<p align="center">
+⚛ React.js • 🌐 HTML5 • 🎨 CSS3 • Bootstrap • Tailwind CSS
+</p>
+
+---
+
+### 🗄 Database
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql" width="70"/>
 </p>
 
 <p align="center">
-📊 MySQL Database Design & Query Optimization
+🗄 MySQL
 </p>
 
 ---
 
-### 🛠 Tools & Development ⚒️
+### 🛠 Tools & Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea,postman" />
+
+<img src="https://skillicons.dev/icons?i=git" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=idea" width="65"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="65"/>
+
 </p>
 
 <p align="center">
-🔧 Git • 🐙 GitHub • 📦 Maven • 💻 VS Code • 🧠 IntelliJ IDEA • 📬 Postman • ⚙️ Basic CI/CD
+🔧 Git • GitHub • Maven • VS Code • IntelliJ IDEA • Postman • ⚙ Basic CI/CD
 </p>
 
 ---
 
-### 🧠 Core Concepts 🧩
+### 🧠 Core Concepts
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Basic-orange?style=for-the-badge"/>
+
 </p>
 
-<p align="center">
-🧠 Problem Solving • Logic Building • Algorithmic Thinking
-</p>
+---
 
 ---
 
