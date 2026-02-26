@@ -49,12 +49,24 @@
 ### ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring" width="65"/>
+
+<img src="https://skillicons.dev/icons?i=java" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=spring" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" width="60"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=maven" width="60"/>
+
 </p>
 
 <p align="center">
-Spring Boot • Spring Security • JPA • Hibernate • JDBC • REST APIs • MVC Architecture • Layered Architecture
+<b>Spring Boot</b> • <b>Spring Security</b> • <b>JPA</b> • <b>Hibernate</b> • <b>JDBC</b> • 
+<b>REST APIs</b> • <b>MVC Architecture</b> • <b>Layered Architecture</b>
 </p>
+
 
 ---
 
