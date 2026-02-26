@@ -156,7 +156,7 @@
 <tr>
 
 <td align="center">
-<a href="https://www.linkedin.com/in/narendra-koli">
+<a href="https://www.linkedin.com/in/narendra-koli-779008294?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/><br>LinkedIn
 </a>
 </td>
