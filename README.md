@@ -11,26 +11,9 @@
 
 ---
 
-<table>
-<tr>
-<td width="60%">
-
-### 👨‍💻 What I Do
-
-* ⚙️ Build scalable backend systems using **Java & Spring Boot**
-* 🔐 Implement authentication using **Spring Security**
-* 🗄️ Work with **JPA / Hibernate**
-* 🌐 Develop REST APIs
-* ⚡ Build Full Stack Apps using **React**
-* 🧠 Focus on Clean Architecture
-
-</td>
-
-<td width="40%">
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="280"/>
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
 
 ---
 
@@ -70,17 +53,9 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100%"/>
-</td>
-
-<td width="50%">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
-</td>
-</tr>
-</table>
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+</p>
 
 ---
 
