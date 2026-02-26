@@ -24,113 +24,97 @@
 
 ---
 
-## 🛠 Technical Expertise
+## 🛠️ Technical Expertise 🚀
 
 ---
 
-### 💻 Programming Languages
+### 💻 Programming Languages ⚡
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java" width="60"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="60"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
+<img src="https://skillicons.dev/icons?i=java,js,mysql&perline=3" />
 </p>
 
 <p align="center">
-<b>Java</b> &nbsp;&nbsp;•&nbsp;&nbsp;
-<b>JavaScript</b> &nbsp;&nbsp;•&nbsp;&nbsp;
-<b>SQL</b>
-</p>
-
----
-
-### ⚙️ Backend Development
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=java" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=spring" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=mysql" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=maven" width="60"/>
-
+☕ <b>Java</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+✨ <b>JavaScript</b> &nbsp;&nbsp;•&nbsp;&nbsp;
+🗄️ <b>SQL</b>
 </p>
 
 <p align="center">
-<b>Spring Boot</b> • <b>Spring Security</b> • <b>JPA</b> • <b>Hibernate</b> • <b>JDBC</b> • 
-<b>REST APIs</b> • <b>MVC Architecture</b> • <b>Layered Architecture</b>
-</p>
-
-
----
-
-### 🌐 Frontend Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind" width="60"/>
-</p>
-
-<p align="center">
-React.js • HTML • CSS • Bootstrap • Tailwind CSS
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2500&color=58A6FF&center=true&vCenter=true&width=500&lines=Writing+Clean+and+Efficient+Code;Problem+Solving+with+Java;Backend+Logic+Development"/>
 </p>
 
 ---
 
-### 🗄 Database
+### ⚙️ Backend Development 🔥
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql" width="65"/>
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postman,maven" />
 </p>
 
 <p align="center">
-MySQL
-</p>
-
----
-
-### 🛠 Tools & Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=maven" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=idea" width="60"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=postman" width="60"/>
+🚀 Spring Boot • 🔐 Spring Security • ⚡ JPA • 🧩 Hibernate • 🔗 JDBC  
+🌐 REST APIs • 🏗 MVC Architecture • 🧱 Layered Architecture
 </p>
 
 <p align="center">
-Git • GitHub • Maven • VS Code • IntelliJ IDEA • Postman • Basic CI/CD
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2600&color=00F7FF&center=true&vCenter=true&width=550&lines=Building+Scalable+Backend+Systems;Secure+REST+API+Development;Enterprise+Java+Applications"/>
 </p>
 
 ---
 
-### 🧠 Core Concepts
+### 🌐 Frontend Development 🎨
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+</p>
+
+<p align="center">
+⚛️ React.js • 🌍 HTML • 🎨 CSS • 🅱 Bootstrap • 💨 Tailwind CSS
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=18&duration=2600&color=F59E0B&center=true&vCenter=true&width=520&lines=Responsive+UI+Design;Modern+Frontend+Development;Clean+User+Interfaces"/>
+</p>
+
+---
+
+### 🗄 Database 💾
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="70"/>
+</p>
+
+<p align="center">
+📊 MySQL Database Design & Query Optimization
+</p>
+
+---
+
+### 🛠 Tools & Development ⚒️
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea,postman" />
+</p>
+
+<p align="center">
+🔧 Git • 🐙 GitHub • 📦 Maven • 💻 VS Code • 🧠 IntelliJ IDEA • 📬 Postman • ⚙️ Basic CI/CD
+</p>
+
+---
+
+### 🧠 Core Concepts 🧩
 
 <p align="center">
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Basic-orange?style=for-the-badge"/>
 </p>
 
+<p align="center">
+🧠 Problem Solving • Logic Building • Algorithmic Thinking
+</p>
+
 ---
+
 
 ## 📊 GitHub Performance
 
