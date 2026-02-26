@@ -10,7 +10,7 @@
  
 <p align="center">
 <b>Spring Boot • REST APIs • MVC Architecture • Layered Architecture • React Integration</b>
-</p>
+</p>   
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2"/>
