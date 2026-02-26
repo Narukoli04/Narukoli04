@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Java Backend Developer | ⚡ Full Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Spring+Boot+Backend+Developer;REST+API+Engineer;Java+%7C+React+%7C+MySQL;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Spring+Boot+Backend+Developer;Java+%7C+React+%7C+MySQL;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 ---
