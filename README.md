@@ -7,26 +7,44 @@
 ---
 
 
+<h1 align="center">⚡ Narendra Koli ⚡</h1>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212897441-249c0a3c-3f1e-4b0d-b1d1-9c58f2b6c4b3.gif" width="500"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=2000&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=🚀+Java+Backend+Developer;⚡+Full+Stack+Developer;☕+Spring+Boot+Engineer;🌐+Frontend+Developer;🧠+DSA+Enthusiast;🔥+Building+Scalable+Systems"/>
 </p>
 
 ---
 
-## 🧑‍💻 Developer Profile
+<p align="center">
+<img src="https://i.gifer.com/7efs.gif" width="900"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=120&section=header"/>
+</p>
+
+---
+
+## 🧑‍💻 Developer Identity
 
 ```java
-public class NarendraKoli {
+class NarendraKoli {
 
     String role = "Java Backend Developer";
-    String specialization = "Spring Boot & REST APIs";
-    String database = "MySQL";
-    String frontend = "HTML, CSS, JavaScript, React";
-    String focus = "Scalable Backend Systems";
+    String stack = "Spring Boot | REST APIs | MySQL";
+    String frontend = "HTML | CSS | JS | React";
+    String passion = "Scalable Backend Systems";
 
 }
 ```
+
+---
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
 
 ---
 
@@ -38,24 +56,30 @@ public class NarendraKoli {
 
 ---
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff00,100:000000&height=2"/>
+</p>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Narukoli04&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Narukoli04&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Narukoli04&show_icons=true&theme=chartreuse-dark"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Narukoli04&theme=chartreuse-dark"/>
 </p>
 
 ---
 
-## 📈 Most Used Languages
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narukoli04&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narukoli04&theme=chartreuse-dark"/>
 </p>
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Narukoli04/Narukoli04/output/github-contribution-grid-snake.svg"/>
@@ -63,7 +87,15 @@ public class NarendraKoli {
 
 ---
 
-## 🌍 Connect With Me
+## 🔴 Live Coding Status
+
+<p align="center">
+<img src="https://img.shields.io/badge/Currently-Coding%20SpringBoot-brightgreen?style=for-the-badge"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/narendra-koli">
@@ -77,5 +109,9 @@ public class NarendraKoli {
 ---
 
 <p align="center">
-⚡ <b>Code • Learn • Build • Repeat</b> ⚡
+🔥 <b>Eat • Sleep • Code • Repeat</b> 🔥
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=120&section=footer"/>
 </p>
