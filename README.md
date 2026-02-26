@@ -3,3 +3,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=🚀+Java+Backend+Developer;🌐+Frontend+Developer;⚡+Full+Stack+Developer;☕+Spring+Boot+%7C+REST+API+Developer;" />
 </p>
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</p>
