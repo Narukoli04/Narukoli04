@@ -6,26 +6,31 @@
 
 ---
 
+
+
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+<img src="https://user-images.githubusercontent.com/74038190/212897441-249c0a3c-3f1e-4b0d-b1d1-9c58f2b6c4b3.gif" width="500"/>
 </p>
 
 ---
 
-## ⚡ ABOUT ME
+## 🧑‍💻 Developer Profile
 
 ```java
-class NarendraKoli {
+public class NarendraKoli {
+
     String role = "Java Backend Developer";
-    String stack = "Spring Boot | REST API | MySQL";
-    String frontend = "HTML | CSS | JavaScript | React";
-    String passion = "Building Scalable Systems";
+    String specialization = "Spring Boot & REST APIs";
+    String database = "MySQL";
+    String frontend = "HTML, CSS, JavaScript, React";
+    String focus = "Scalable Backend Systems";
+
 }
 ```
 
 ---
 
-## 🔥 TECH STACK
+## ⚙️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,react,git,github,maven,intellij,vscode,linux"/>
@@ -33,24 +38,24 @@ class NarendraKoli {
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Narukoli04&show_icons=true&theme=radical"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Narukoli04&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Narukoli04&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Narukoli04&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🧠 MOST USED LANGUAGES
+## 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narukoli04&layout=compact&theme=radical"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narukoli04&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 Contribution Activity
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Narukoli04/Narukoli04/output/github-contribution-grid-snake.svg"/>
@@ -58,7 +63,7 @@ class NarendraKoli {
 
 ---
 
-## 🌐 CONNECT WITH ME
+## 🌍 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/narendra-koli">
@@ -72,6 +77,5 @@ class NarendraKoli {
 ---
 
 <p align="center">
-🔥 <b>Code Hard • Dream Big • Build Systems 🚀</b> 🔥
+⚡ <b>Code • Learn • Build • Repeat</b> ⚡
 </p>
-
