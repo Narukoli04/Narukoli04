@@ -1,66 +1,77 @@
-<h1 align="center">Narendra Koli</h1>
+<h1 align="center">Hi 👋, I'm Narendra Koli</h1>
+
+<h3 align="center">🚀 Java Backend Developer | ⚡ Full Stack Developer</h3>
 
 <p align="center">
-  <b>🚀 Java Backend Developer | Full Stack Developer</b>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Spring+Boot+Developer;React+Frontend+Developer;Building+Scalable+Applications"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212897441-249c0a3c-3f1e-4b0d-b1d1-9c58f2b6c4b3.gif" width="500"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Spring+Boot+Backend+Developer;REST+API+Engineer;Java+%7C+React+%7C+MySQL;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-## ✨ About Me
+<p align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="480"/>
+</p>
+
+---
+
+## 👨‍💻 Developer Profile
 
 ```java
-Developer narendra = new Developer();
+class NarendraKoli {
 
-narendra.role = "Java Backend Developer";
-narendra.backend = "Spring Boot | Spring Security | REST APIs";
-narendra.frontend = "React.js | HTML | CSS | Tailwind";
-narendra.database = "MySQL";
-narendra.architecture = "MVC & Layered Architecture";
-narendra.learning = "DSA + System Design";
+    String role = "Java Backend Developer";
+    String backend = "Spring Boot, Spring Security, REST APIs";
+    String frontend = "React.js, HTML, CSS";
+    String database = "MySQL";
+    String architecture = "MVC & Layered Architecture";
+
+}
 ```
 
 ---
 
-## ⚡ Technical Skills
+# 🚀 Tech Stack
 
 ### 💻 Languages
 
-Java • JavaScript • SQL
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,mysql"/>
+</p>
 
-### 🔧 Backend
+### ⚙️ Backend Development
 
-Spring Boot • Spring Security • JPA • Hibernate
-JDBC • REST APIs • MVC • Layered Architecture
+<p>
+<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-Backend-success?style=for-the-badge"/>
+</p>
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
-React.js • HTML • CSS • Bootstrap • Tailwind CSS
-
-### 🗄 Database
-
-MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
+</p>
 
 ### 🛠 Tools & IDEs
 
-Git • GitHub • Maven • Postman
-VS Code • IntelliJ IDEA • CI/CD (Basic)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea,postman"/>
+</p>
 
----
+### 🗄 Database
 
-## 🚀 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,js,tailwind,bootstrap,git,github,maven,vscode,intellij,postman"/>
+### 🧠 Core Concepts
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Basic-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC%20Architecture-Design-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Layered%20Architecture-System-orange?style=for-the-badge"/>
 </p>
 
 ---
@@ -82,12 +93,19 @@ VS Code • IntelliJ IDEA • CI/CD (Basic)
 
 ---
 
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
+</p>
+
+---
+
 ## 🌍 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/narendra-koli">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
 <a href="https://narendra-koli-124854.netlify.app/">
 <img src="https://skillicons.dev/icons?i=webstorm"/>
 </a>
@@ -96,5 +114,5 @@ VS Code • IntelliJ IDEA • CI/CD (Basic)
 ---
 
 <p align="center">
-🔥 <b>Code Smart • Build Fast • Keep Learning 🚀</b>
+🔥 Passionate about building scalable backend systems using Java ecosystem 🚀
 </p>
