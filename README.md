@@ -1,133 +1,106 @@
-<h1 align="center">Hi 👋, I'm Narendra Koli</h1>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Narendra+Koli;Java+Backend+Developer+💻;Spring+Boot+%7C+REST+APIs+%7C+MySQL;Building+Scalable+Applications+🚀"/>
+</h1>
 
-<h3 align="center">🚀 Java Backend Developer | ⚡ Full Stack Developer</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Spring+Boot+Backend+Developer;Java+%7C+React+%7C+MySQL;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=Narukoli04&label=Profile+Views&color=0e75b6&style=flat-square"/>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=120&section=header"/>
-</p>
+<h3 align="center">🚀 Enterprise Java Backend Developer</h3>
+<p align="center"><b>Spring Boot | REST APIs | MVC | Layered Architecture</b></p>
+
+<img align="right" width="260"
+src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif"/>
 
 ---
 
-<p align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="460"/>
-</p>
+### 👨‍💻 What I Do
+
+* ⚙️ Build scalable backend systems using **Java & Spring Boot**
+* 🔐 Implement authentication using **Spring Security**
+* 🗄️ Work with databases using **JPA / Hibernate**
+* 🌐 Develop RESTful APIs
+* ⚡ Build Full Stack Apps using **React**
+* 🧠 Focus on Clean Architecture & Performance
 
 ---
 
-## 👨‍💻 Developer Profile
+<h3>⚡ Tech Stack :</h3>
 
-```java
-class NarendraKoli {
+<table align="center">
+<tr>
 
-    String role = "Java Backend Developer";
-    String backend = "Spring Boot, Spring Security, REST APIs";
-    String frontend = "React.js, HTML, CSS";
-    String database = "MySQL";
-    String architecture = "MVC & Layered Architecture";
+<td align="center"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="36"/><br>Java</td>
 
-}
-```
+<td align="center"><img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" width="36"/><br>Spring Boot</td>
 
----
+<td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="36"/><br>MySQL</td>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
-</p>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="36"/><br>React</td>
 
-# 🚀 Tech Stack
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="36"/><br>HTML</td>
 
-### 💻 Languages
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="36"/><br>CSS</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,mysql"/>
-</p>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="36"/><br>VS Code</td>
 
-### ⚙️ Backend Development
+<td align="center"><img src="https://skillicons.dev/icons?i=idea" width="36"/><br>IntelliJ</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=spring"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20API-Backend-success?style=for-the-badge"/>
-</p>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/><br>Postman</td>
 
-### 🌐 Frontend Development
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="36"/><br>Git</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
-</p>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="36"/><br>GitHub</td>
 
-### 🛠 Tools & IDEs
+<td align="center"><img src="https://skillicons.dev/icons?i=spring" width="36"/><br>REST APIs</td>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea,postman"/>
-</p>
-
-### 🗄 Database
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### 🧠 Core Concepts
-
-<p align="center">
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Basic-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC%20Architecture-Design-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Layered%20Architecture-System-orange?style=for-the-badge"/>
-</p>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
-</p>
+<h3>🤝 Let's Connect :</h3>
 
-## 📊 GitHub Stats
+<table align="center">
+<tr>
 
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Narukoli04&show_icons=true&theme=github_dark"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Narukoli04&theme=github-dark-blue"/>
-</p>
-
----
-
-## 📈 Coding Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narukoli04&theme=github-dark"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
+<td align="center">
 <a href="https://www.linkedin.com/in/narendra-koli">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/><br>LinkedIn
 </a>
+</td>
+
+<td align="center">
+<a href="mailto:narukoli2004@gmail.com">
+<img src="https://user-images.githubusercontent.com/29790345/184528214-8f168ffd-5a4c-4d30-8d6b-917568924fbb.png" width="40"/><br>Email
+</a>
+</td>
+
+<td align="center">
 <a href="https://narendra-koli-124854.netlify.app/">
-<img src="https://skillicons.dev/icons?i=webstorm"/>
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40"/><br>Portfolio
 </a>
+</td>
+
+</tr>
+</table>
+
+---
+
+<p align="center">
+<img height="200" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/left.png"/>
+<img height="150" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Narukoli04&theme=react&border_radius=10"/>
+<img height="200" width="150" src="https://github.com/kishanrajput23/kishanrajput23/blob/main/images/right.png"/>
 </p>
 
 ---
 
 <p align="center">
-🔥 Passionate about building scalable backend systems using Java ecosystem 🚀
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=Narukoli04&show_icons=true&theme=react&border_radius=10"/>
 </p>
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer"/>
-</p>
+---
+
+<div align="center">
+<h3>⭐ Show some ❤️ by starring repositories!</h3>
+</div>
