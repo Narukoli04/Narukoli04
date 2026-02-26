@@ -17,44 +17,75 @@
 
 ---
 
-## ⚡ Backend Skills
+## 🛠 Technical Expertise
+
+### 💻 Programming Languages
 
 <p align="center">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="45"/>
-<img src="https://skillicons.dev/icons?i=spring" width="45"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring"/>
-<img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-success?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=java,js,mysql"/>
+</p>
+
+<p align="center">
+<b>Java</b> • <b>JavaScript</b> • <b>SQL</b>
 </p>
 
 ---
 
-## 🌐 Frontend Skills
+### ⚙️ Backend Development
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_APIs-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MVC_Architecture-Design-critical?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Layered_Architecture-System-informational?style=for-the-badge"/>
+</p>
+
+---
+
+### 🌐 Frontend Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
 </p>
 
+<p align="center">
+<b>React.js</b> • <b>HTML5</b> • <b>CSS3</b> • <b>Bootstrap</b> • <b>Tailwind CSS</b>
+</p>
+
 ---
 
-## 🗄 Database
+### 🗄 Database
 
 <p align="center">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
 </p>
 
----
-
-## 🛠 Tools & IDEs
-
 <p align="center">
-<img src="https://skillicons.dev/icons?i=vscode,idea,git,github,maven,postman"/>
+<b>MySQL</b>
 </p>
 
 ---
 
+### 🛠 Tools & DevOps
+
 <p align="center">
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="420"/>
+<img src="https://skillicons.dev/icons?i=git,github,maven,postman"/>
+<img src="https://img.shields.io/badge/CI/CD-Basic-blueviolet?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<b>Git</b> • <b>GitHub</b> • <b>Maven</b> • <b>Postman</b> • <b>Basic CI/CD</b>
+</p>
+
+---
+
+### 🧠 Core Concepts
+
+<p align="center">
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-Basic-orange?style=for-the-badge"/>
 </p>
 
 ---
