@@ -26,37 +26,32 @@
 
 ## 🛠 Technical Expertise
 
-### 💻 Programming Languages
+---
 
 ### 💻 Programming Languages
 
 <p align="center">
-
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="65"/>
-
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/>
-
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65"/>
-
 </p>
 
 <p align="center">
-<b>Java</b> &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-<b>JavaScript</b> &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-<b>SQL</b>
+<b>Java</b> • <b>JavaScript</b> • <b>SQL</b>
 </p>
 
+---
 
 ### ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_APIs-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC_Architecture-Design-critical?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Layered_Architecture-System-informational?style=for-the-badge"/>
+<img src="https://techstack-generator.vercel.app/spring-icon.svg" width="65"/>
+<img src="https://cdn.worldvectorlogo.com/logos/hibernate.svg" width="65"/>
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" width="65"/>
+</p>
+
+<p align="center">
+<b>Spring Boot</b> • <b>Spring Security</b> • <b>JPA</b> • <b>Hibernate</b> • <b>JDBC</b> • <b>REST APIs</b> • <b>MVC Architecture</b> • <b>Layered Architecture</b>
 </p>
 
 ---
@@ -64,11 +59,15 @@
 ### 🌐 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/>
+<img src="https://techstack-generator.vercel.app/html-icon.svg" width="65"/>
+<img src="https://techstack-generator.vercel.app/css-icon.svg" width="65"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="65"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="65"/>
 </p>
 
 <p align="center">
-<b>React.js</b> • <b>HTML5</b> • <b>CSS3</b> • <b>Bootstrap</b> • <b>Tailwind CSS</b>
+<b>React.js</b> • <b>HTML</b> • <b>CSS</b> • <b>Bootstrap</b> • <b>Tailwind CSS</b>
 </p>
 
 ---
@@ -76,7 +75,7 @@
 ### 🗄 Database
 
 <p align="center">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50"/>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70"/>
 </p>
 
 <p align="center">
@@ -85,15 +84,19 @@
 
 ---
 
-### 🛠 Tools & DevOps
+### 🛠 Tools & Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,maven,postman"/>
-<img src="https://img.shields.io/badge/CI/CD-Basic-blueviolet?style=for-the-badge"/>
+<img src="https://techstack-generator.vercel.app/git-icon.svg" width="65"/>
+<img src="https://skillicons.dev/icons?i=github" width="65"/>
+<img src="https://skillicons.dev/icons?i=maven" width="65"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="65"/>
+<img src="https://skillicons.dev/icons?i=idea" width="65"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="65"/>
 </p>
 
 <p align="center">
-<b>Git</b> • <b>GitHub</b> • <b>Maven</b> • <b>Postman</b> • <b>Basic CI/CD</b>
+<b>Git</b> • <b>GitHub</b> • <b>Maven</b> • <b>VS Code</b> • <b>IntelliJ IDEA</b> • <b>Postman</b> • <b>Basic CI/CD</b>
 </p>
 
 ---
@@ -101,8 +104,9 @@
 ### 🧠 Core Concepts
 
 <p align="center">
-<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-Basic-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-Basic-orange?style=for-the-badge"/>
 </p>
+
 
 ---
 
