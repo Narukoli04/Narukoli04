@@ -6,8 +6,15 @@
 <img src="https://komarev.com/ghpvc/?username=Narukoli04&label=Profile+Views&color=0e75b6&style=flat-square"/>
 </p>
 
-<h3 align="center">🚀  Java Backend Developer || Full Stack Developer</h3>
-<p align="center"><b>Spring Boot | REST APIs | MVC | Layered Architecture | Front End Developer </b></p>
+<h3 align="center">🚀 Java Backend Developer • Full Stack Developer</h3>
+
+<p align="center">
+<b>Spring Boot • REST APIs • MVC Architecture • Layered Architecture • React Integration</b>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=38BDF8&height=2"/>
+</p>
 
 ---
 
@@ -22,7 +29,7 @@
 ### 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,js"/>
 </p>
 
 <p align="center">
@@ -93,11 +100,8 @@
 ## 📊 GitHub Performance
 
 <p align="center">
-<img height="170" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Narukoli04&theme=react&border_radius=10"/>
-</p>
-
-<p align="center">
-<img width="420" src="https://github-readme-stats-salesp07.vercel.app/api?username=Narukoli04&show_icons=true&theme=react&border_radius=10"/>
+<img height="165" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Narukoli04&theme=react&border_radius=10"/>
+<img height="165" src="https://github-readme-stats-salesp07.vercel.app/api?username=Narukoli04&show_icons=true&theme=react&border_radius=10"/>
 </p>
 
 ---
