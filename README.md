@@ -1,31 +1,29 @@
-<h1 align="center">Hi 👋, I'm Narendra Koli</h1>
-
-<h3 align="center">🚀 Java Backend Developer | ⚡ Full Stack Developer</h3>
+<h1 align="center">⚡ Narendra Koli ⚡</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2400&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Spring+Boot+Backend+Developer;Java+%7C+React+%7C+MySQL;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Java+Backend+Developer;⚡+Full+Stack+Developer;🔥+Spring+Boot+Engineer;🌐+React+Developer;💻+Building+Scalable+Applications"/>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=120&section=header"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="460"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f7ff,100:000000&height=150&section=header&animation=fadeIn"/>
 </p>
 
 ---
 
-## 👨‍💻 Developer Profile
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
 
-```java
+---
+
+## 🧠 Developer Identity
+
+```java id="x9k1i8"
 class NarendraKoli {
 
     String role = "Java Backend Developer";
-    String backend = "Spring Boot, Spring Security, REST APIs";
-    String frontend = "React.js, HTML, CSS";
+    String backend = "Spring Boot | Spring Security | REST APIs";
+    String frontend = "React.js | HTML | CSS";
     String database = "MySQL";
     String architecture = "MVC & Layered Architecture";
 
@@ -35,83 +33,57 @@ class NarendraKoli {
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=3"/>
 </p>
 
-# 🚀 Tech Stack
-
-### 💻 Languages
+## 🚀 Tech Arsenal
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,html,css,bootstrap,tailwind,git,github,maven,vscode,idea,postman&perline=7"/>
 </p>
 
-### ⚙️ Backend Development
+---
+
+## ⚡ Live Developer Stats
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=spring"/>
-<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/JPA-Hibernate-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JDBC-Database-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20API-Backend-success?style=for-the-badge"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Narukoli04&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Narukoli04&theme=tokyonight&hide_border=true"/>
 </p>
 
-### 🌐 Frontend Development
+---
+
+## 📈 Contribution Animation
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narukoli04&theme=tokyo-night&hide_border=true"/>
 </p>
 
-### 🛠 Tools & IDEs
+---
+
+## 🐍 Contribution Snake (Auto Animation)
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,maven,vscode,idea,postman"/>
+<img src="https://raw.githubusercontent.com/Narukoli04/Narukoli04/output/github-contribution-grid-snake.svg"/>
 </p>
 
-### 🗄 Database
+---
+
+## 🔥 Coding Mode Activated
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-### 🧠 Core Concepts
-
-<p align="center">
-<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-Basic-blueviolet?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MVC%20Architecture-Design-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Layered%20Architecture-System-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-CODING%20SPRINGBOOT-00F7FF?style=for-the-badge&logo=visualstudiocode"/>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=58A6FF&height=2"/>
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Narukoli04&show_icons=true&theme=github_dark"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Narukoli04&theme=github-dark-blue"/>
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
 </p>
 
 ---
 
-## 📈 Coding Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Narukoli04&theme=github-dark"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420"/>
-</p>
-
----
-
-## 🌍 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/narendra-koli">
@@ -125,9 +97,9 @@ class NarendraKoli {
 ---
 
 <p align="center">
-🔥 Passionate about building scalable backend systems using Java ecosystem 🚀
+🔥 <b>Eat • Sleep • Code • Repeat 🚀</b>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:0d1117&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=150&section=footer"/>
 </p>
